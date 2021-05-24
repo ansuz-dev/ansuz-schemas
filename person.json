@@ -10,11 +10,18 @@
   "properties": {
     "name": {
       "type": "string",
+      "title": "Name",
       "description": "Person name"
     },
     "age": {
       "type": "integer",
+      "title": "Age",
       "description": "Person age"
+    },
+    "address": {
+      "type": "string",
+      "title": "Address",
+      "description": "Residence address"
     }
   }
 }
